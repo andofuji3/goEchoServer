@@ -1,0 +1,9 @@
+{
+	"Server": {
+		"AcceptPort": "8888"
+	},
+	"Client": {
+		"ConnectIP": "127.0.0.1",
+		"ConnectPort": "7777"
+	}
+}
